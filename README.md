@@ -6,8 +6,6 @@
 
 Check out:
 
--  https://simon-studios.github.io/Web-iD-gaming
-
 <!---
 simon-studios/simon-studios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
