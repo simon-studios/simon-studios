@@ -1,2 +1,2 @@
 # Information on releases can be found here:
-- no releases announced
+- iD \\note\\ - see calendar on: https://simonstudiosdev.wixsite.com/id-note
