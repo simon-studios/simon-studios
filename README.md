@@ -6,7 +6,7 @@
 
 Check out:
 
-- https://sites.google.com/view/id-note/home
+- https://www.id-note.ga
 
 <!---
 simon-studios/simon-studios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
