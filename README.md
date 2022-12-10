@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @simon-studios
-- 👀 I’m interested in web-development - .html, .css, .js...
-- 🌱 I’m currently learning flutter-development - .dart...
-- 💞️ I’m looking to collaborate on -...
-- 📫 How to reach me -...
+- 👋 Hi, we're @simon-studios
+- 👀 We're interested in web-development - .html, .css, .js
+- 🌱 We're currently learning flutter-development - .dart
+- 💞️ We're looking to collaborate on -
+- 📫 How to reach us - contact us using the form on our website
 
 Check out:
 
 - https://www.id-note.ga
+
+🎄Merry Chritsmas🎄
 
 <!---
 simon-studios/simon-studios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
