@@ -4,11 +4,18 @@
 - 💞️ We're looking to collaborate on -
 - 📫 How to reach us - contact us using the form on our website
 
+---
+
 Check out:
 
 - https://www.id-note.ga
+- https://thefeedofsimonstudios.blogspot.com 🆕
 
-🎄Merry Chritsmas🎄
+---
+
+🎆happy new year🎆
+
+
 
 <!---
 simon-studios/simon-studios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
