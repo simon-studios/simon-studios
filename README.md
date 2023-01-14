@@ -8,7 +8,6 @@
 
 Check out:
 
-- https://www.id-note.ga
 - https://thefeedofsimonstudios.blogspot.com 🆕
 
 ---
