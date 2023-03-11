@@ -8,7 +8,7 @@
 
 Check out:
 
-- https://thefeedofsimonstudios.blogspot.com 🆕
+- https://www.simon-studios.de/the-developments/id-note 🆕
 
 ---
 
