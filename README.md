@@ -8,11 +8,11 @@
 
 Check out:
 
-- https://www.simon-studios.de/the-developments/id-note 🆕
+- https://sites.google.com/view/simon-studios/the-developments/id-note 🆕
 
 ---
 
-🎆happy new year🎆
+🚫 temporarily closed 🚫
 
 
 
