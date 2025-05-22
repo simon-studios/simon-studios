@@ -8,7 +8,7 @@
 
 Check out:
 
-- https://sites.google.com/view/simon-studios/the-developments/id-note 🆕
+
 
 ---
 
