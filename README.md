@@ -1,8 +1,7 @@
-- 👋 Hi, we're @simon-studios
-- 👀 We're interested in web-development - .html, .css, .js
-- 🌱 We're currently learning flutter-development - .dart
-- 💞️ We're looking to collaborate on -
-- 📫 How to reach us - contact us using the form on our website
+- 👋 hi, I'am @simon-studios
+- 👀 I'am interested in web-development - .html, .css, .js
+- 🌱 I'am currently learning python
+- 📫 how to reach me - https://forms.gle/3b27Sk2qXPgFtsPV6
 
 ---
 
